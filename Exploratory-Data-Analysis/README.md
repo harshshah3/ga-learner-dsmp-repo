@@ -16,9 +16,7 @@ Throughout this hands-on project,  I have put efforts to have insights on some i
 
 The snapshot of the data,
 
-[container width="100%" align="center"]
-![Data Snapshot](undefined/account/b16/6a1f0c95-2915-474c-917f-dc711cc8d89b/b838/fc45a6ba-d4a4-4c8c-9bfc-460bd85f16eb/file.PNG)
-!!![container-end]
+![Data Snapshot](https://github.com/harshshah3/ga-learner-dsmp-repo/blob/master/Exploratory-Data-Analysis/app_data_preview.PNG)
 
 
 The dataset has details of 10841 apps with following 13 features.
